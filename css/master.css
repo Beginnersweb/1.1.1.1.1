@@ -1,0 +1,73 @@
+/*index.html*/
+
+body{
+  background-color: #fa9191;
+}
+
+h2{
+  font-family: cursive;
+}
+
+.clase{
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.otraClase{
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+#idColores{
+  color: green;
+}
+
+#idColoresDos{
+  color: blue;
+}
+
+#idreservaciones{
+  color: black;
+}
+
+footer{
+  text-align: center;
+}
+/*quejas.html*/
+
+#idHDos{
+  font-family: serif;
+  color: blue;
+}
+
+#idTexto{
+  color: gray;
+  font-family: fantasy;
+  font-size: 30px;
+}
+/*historia*/
+#idhistoria{
+  font-size: 40px;
+  font-family: fantasy;
+}
+
+/*resercvaciones html*/
+.reservaciones{
+  font-size: 20px;
+  font-family: Elephant;
+  text-align: center;
+}
+
+/*suma de consumo*/
+.consumo{
+  font-size: 20px;
+  font-family: Elephant;
+  text-align: center;
+
+}
+
+.titulos{
+  font-size: 50px;
+  font-family: fantasy;
+  text-align: center;
+}
