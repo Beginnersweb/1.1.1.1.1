@@ -14,6 +14,7 @@ if(n <0){
 }else{
 document.write("</p>Costo de la reservacion: " + "$"+
 + 50*n+"  Pesos MXN");
+    
 }
 
 
