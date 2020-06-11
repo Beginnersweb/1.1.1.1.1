@@ -12,7 +12,7 @@ var n = Number(prompt("Cantidad de personas cada persona son $50 pesos mexicanos
 if(n <0){
     document.write("</p>No podemos sumar personas negativas")
 }else{
-document.write("</p>Costo de la reservacion: " + "$"+
+document.write("</p>Costo de la reservacion: $"+
 + 50*n+"  Pesos MXN");
     
 }
